@@ -1,0 +1,9 @@
+Goto Help->Install New Software
+
+Type http://dl.bintray.com/testng-team/testng-eclipse-release/. in "Work with" field and Click Add
+
+Once you click on "Add", it will display the screen, enter the Name as "TestNG".
+
+After clicking on "OK", it will scan and display TestNG with 3 files
+
+Now select TestNG and next next and follow eclipse steps
